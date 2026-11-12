@@ -18,13 +18,13 @@
 <br>
 
 <p align="center">
-  <img src="https://api.removal.ai/download/g2/preview/ce82a517-9121-4f5d-8d73-70f52460d242.png" width="550">
+  <img src="https://file.garden/avWSAgqdE0-v4kIR/Untitled76_20261112132032.webp" width="600">
 </p>
 
 <br>
 
-<p align="center"> <style="font-family:monospace; color:green">
-shuriken<img src="https://64.media.tumblr.com/63cf82912d57c6becff823b55afe8190/830d3eeb4c3c76a5-67/s75x75_c1/ad66b47af25503ac9a004231fce87cbeeac7227a.gifv"  width="20"><span style="color: red;">sword</span>
+<p align="center"> <color="green">
+shuriken<img src="https://64.media.tumblr.com/603716f5571643c38776f1af5e2d6d9b/ed114f53e39e18c6-73/s75x75_c1/efcdb16c5bb6ce00901d0c66ee4c7943a06a78e5.gifv"  width="20"><span style="color: red;">sword</span>
 </p>
 
 <!-- Decorative Separator -->
@@ -70,7 +70,7 @@ hello!! lolz wip hehueue
 </p>
 
 <br><br>
-<p align="center"><img src="blob:https://phototourl.com/1b935d82-4e1d-4ab0-805f-783f1f69fe73" width="200"><img src="blob:https://tools.kommodo.ai/90c0dc07-d6eb-461b-8f5e-02262951231b" width="200"></p>
+<p align="center"><img src="https://file.garden/avWSAgqdE0-v4kIR/Untitled77_20261112133227.webp"  width="250"><img src="https://file.garden/avWSAgqdE0-v4kIR/Untitled77_20261112133319.webp" width="250"></p>
 
 <!-- Stamps / Side Images -->
 <p align="right">
