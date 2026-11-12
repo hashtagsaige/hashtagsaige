@@ -12,7 +12,9 @@
 </p>
 
 <div align="center">
-uuuuuuugh colored text or smth aaaaaaaaaaaaaaaaaaaaaaaaaaaa
+  
+colored text type shit aaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+
 </div>
 
 <br>
