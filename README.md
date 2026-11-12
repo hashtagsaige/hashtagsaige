@@ -11,7 +11,7 @@
 <br>
 
 <p align="center">
-  blehﾉ<b><br>
+ <span style="color: #abee66;">how do i add color to ts</span>
  idk what to put here</a>
 </p>
 
