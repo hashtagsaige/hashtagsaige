@@ -5,6 +5,9 @@
 <p align="center">
   <img src="https://64.media.tumblr.com/0f32497f83d71f4ecec72b3fcd4ff1a5/0ffb473bc1799547-c9/s400x600/53d9eae36220e6cecbc4bef36cb2c1b1e4125c4c.gifv">
 </p>
+<div align="center">
+
+![](https://komarev.com/ghpvc/?username=literalferretlover&label=sparrows+and+shadows&color=A7D49B&style=flat&abbreviated=true)
 <br>
 <!-- Welcome Text -->
 <p align="center">
