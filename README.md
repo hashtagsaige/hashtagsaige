@@ -1,20 +1,10 @@
 <p align="center">
   <img src="https://64.media.tumblr.com/47f7fce96314d8d32c6456bf5988e36c/e9d9c73fe644c12d-df/s1280x1920/e21b6f3aa120e2987ed7115c677ecc9d8e017a9e.pnj">
 </p>
-
-<p align="center">
-  <img src="https://64.media.tumblr.com/0f32497f83d71f4ecec72b3fcd4ff1a5/0ffb473bc1799547-c9/s400x600/53d9eae36220e6cecbc4bef36cb2c1b1e4125c4c.gifv">
-</p>
 <div align="center">
 
 ![](https://komarev.com/ghpvc/?username=literalferretlover&label=sparrows+and+shadows&color=A7D49B&style=flat&abbreviated=true)
 <br>
-
-<p align="center">
- <span style="color: #abee66;">how do i add color to ts</span>
- idk what to put here</a>
-</p>
-
 <br>
 
 <p align="center">
@@ -27,6 +17,12 @@
 </div>
 
 <br>
+<div align="center">
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Handlee&size=22&color=9BE9A8&center=true&vCenter=true&width=600&lines=But+I+won't+deny+that;In+the+midst+of+the+crowds;In+the+shapes+in+the+clouds;I+don't+see+nobody+but+you+💕&pause=1000&repeat=true" alt="Typing SVG" />
+</a>
+  
+</div>
 
 <p align="center">
   blehﾉ<b><br>
@@ -60,6 +56,5 @@ hello!! lolz wip hehueue
   <br>
   <img src="STAMP3_URL" width="110" alt="">
 <div align="center">
-<img src="https://64.media.tumblr.com/0f32497f83d71f4ecec72b3fcd4ff1a5/0ffb473bc1799547-c9/s400x600/53d9eae36220e6cecbc4bef36cb2c1b1e4125c4c.gifv">
 <img src="https://64.media.tumblr.com/3d78ba00a62507828b5aa14d6f6d83a7/e9d9c73fe644c12d-25/s1280x1920/cbb7b23a5fcfa98c8ff9ccc08fd93beae7e29ee2.pnj">
 </p>
