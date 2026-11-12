@@ -67,9 +67,7 @@ hello!! lolz wip hehueue
 </p>
 
 <br><br>
-
-<!-- Main Graphic -->
-<p align="center"><img src="https://api.removal.ai/download/g1/preview/c5fd5d0d-6a42-43bc-9ef0-a7292f326c7b.png" width="200"><img src="https://api.removal.ai/download/g2/preview/e6127604-ddc7-451d-a389-34293ed57cbf.png" width="200"></p>
+<p align="center"><img src="https://api.removal.ai/download/g1/preview/b389b4bf-5d36-4657-86cd-b0a052b6caad.png" width="200"><img src="https://api.removal.ai/download/g2/preview/e6127604-ddc7-451d-a389-34293ed57cbf.png" width="200"></p>
 
 <!-- Stamps / Side Images -->
 <p align="right">
