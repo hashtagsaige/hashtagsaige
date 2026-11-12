@@ -23,8 +23,9 @@
 
 <br>
 
-<p align="center"> <color="green">
-shuriken<img src="https://64.media.tumblr.com/603716f5571643c38776f1af5e2d6d9b/ed114f53e39e18c6-73/s75x75_c1/efcdb16c5bb6ce00901d0c66ee4c7943a06a78e5.gifv"  width="20"><span style="color: red;">sword</span>
+<p align="center">
+$${\color{#F26419}✦}$$
+<img src="https://64.media.tumblr.com/603716f5571643c38776f1af5e2d6d9b/ed114f53e39e18c6-73/s75x75_c1/efcdb16c5bb6ce00901d0c66ee4c7943a06a78e5.gifv"  width="20"><span style="color: red;">sword</span>
 </p>
 
 <!-- Decorative Separator -->
