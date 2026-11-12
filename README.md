@@ -70,7 +70,7 @@ hello!! lolz wip hehueue
 </p>
 
 <br><br>
-<p align="center"><img src="https://api.removal.ai/download/g1/preview/b389b4bf-5d36-4657-86cd-b0a052b6caad.png" width="200"><img src="https://api.removal.ai/download/g2/preview/e6127604-ddc7-451d-a389-34293ed57cbf.png" width="200"></p>
+<p align="center"><img src="blob:https://phototourl.com/1b935d82-4e1d-4ab0-805f-783f1f69fe73" width="200"><img src="blob:https://tools.kommodo.ai/90c0dc07-d6eb-461b-8f5e-02262951231b" width="200"></p>
 
 <!-- Stamps / Side Images -->
 <p align="right">
