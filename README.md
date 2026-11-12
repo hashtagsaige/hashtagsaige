@@ -12,14 +12,13 @@
 </p>
 
 <div align="center">
-<span style="color: #abee66;">Shuriken</span>
-<img src="https://64.media.tumblr.com/603716f5571643c38776f1af5e2d6d9b/ed114f53e39e18c6-73/s75x75_c1/efcdb16c5bb6ce00901d0c66ee4c7943a06a78e5.gifv"  width="20"><span style="color: red;">Sword</span>
+uuuuuuugh colored text or smth aaaaaaaaaaaaaaaaaaaaaaaaaaaa
 </div>
 
 <br>
 <div align="center">
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Handlee&size=22&color=9BE9A8&center=true&vCenter=true&width=600&lines=But+I+won't+deny+that;In+the+midst+of+the+crowds;In+the+shapes+in+the+clouds;I+don't+see+nobody+but+you+💕&pause=1000&repeat=true" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Caveat&size=22&color=9BE9A8&center=true&vCenter=true&width=600&lines=But+I+won't+deny+that;In+the+midst+of+the+crowds;In+the+shapes+in+the+clouds;I+don't+see+nobody+but+you+💕&pause=1000&repeat=true" alt="Typing SVG" />
 </a>
   
 </div>
