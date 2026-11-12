@@ -20,6 +20,10 @@
 
 <br>
 
+<p align="center"> <style="font-family:monospace; color:green">
+shuriken<img src="https://64.media.tumblr.com/63cf82912d57c6becff823b55afe8190/830d3eeb4c3c76a5-67/s75x75_c1/ad66b47af25503ac9a004231fce87cbeeac7227a.gifv"  width="20"><span style="color: red;">sword</span>
+</p>
+
 <!-- Decorative Separator -->
 <p align="center" style="color: #39d353; letter-spacing: 4px;">
 
@@ -47,12 +51,6 @@ hfkahsdfhahsdghhjldghsalhl;gdsag
 </div>
 
 <br>
-
-<!-- Title -->
-<h3 align="center" style="font-family: monospace; color: #d0f0c0;">
-shuriken<img src="https://64.media.tumblr.com/63cf82912d57c6becff823b55afe8190/830d3eeb4c3c76a5-67/s75x75_c1/ad66b47af25503ac9a004231fce87cbeeac7227a.gifv"  width="30"><span style="color: red;">sword</span>
-</h3>
-
 <br>
 
 <!-- Collapsible Section -->
