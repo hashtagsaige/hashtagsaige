@@ -3,7 +3,7 @@
 </p>
 <!-- Decorative Bar -->
 <p align="center">
-  <img src="https://64.media.tumblr.com/479b980431133204e17b89fea36f9fe7/c3b218973bde2fc8-20/s400x600/67adc5f4b514c80d99da5b3701199400d9fbfdde.gifv">
+  <img src="https://64.media.tumblr.com/0f32497f83d71f4ecec72b3fcd4ff1a5/0ffb473bc1799547-c9/s400x600/53d9eae36220e6cecbc4bef36cb2c1b1e4125c4c.gifv">
 </p>
 <br>
 <!-- Welcome Text -->
@@ -50,8 +50,7 @@ hfkahsdfhahsdghhjldghsalhl;gdsag
 
 <!-- Title -->
 <h3 align="center" style="font-family: monospace; color: #d0f0c0;">
-test &nbsp; <code style="background: #1a3b24; color: #9be9a8; padding: 2px 6px; border-radius: 4px;">test</code>
-<span style="color: #ff99cc;">test</span>
+shuriken &nbsp;<img src="https://64.media.tumblr.com/63cf82912d57c6becff823b55afe8190/830d3eeb4c3c76a5-67/s75x75_c1/ad66b47af25503ac9a004231fce87cbeeac7227a.gifv"  width="20"> <span style="color: #ff99cc;">sword</span>
 </h3>
 
 <br>
@@ -72,16 +71,15 @@ hello!! lolz wip hehueue
 <br><br>
 
 <!-- Main Graphic -->
-<p align="center"><img src="https://api.removal.ai/download/g1/preview/c5fd5d0d-6a42-43bc-9ef0-a7292f326c7b.png" width="380"></p>
-<p align="center"><img src="https://api.removal.ai/download/g2/preview/e6127604-ddc7-451d-a389-34293ed57cbf.png" width="380"></p>
+<p align="center"><img src="https://api.removal.ai/download/g1/preview/c5fd5d0d-6a42-43bc-9ef0-a7292f326c7b.png" width="200"><img src="https://api.removal.ai/download/g2/preview/e6127604-ddc7-451d-a389-34293ed57cbf.png" width="200"></p>
+
 <!-- Stamps / Side Images -->
 <p align="right">
   <img src="STAMP1_URL" width="110" alt="">
   <img src="STAMP2_URL" width="110" alt="">
   <br>
   <img src="STAMP3_URL" width="110" alt="">
-
 <div align="center">
-
+<img src="https://64.media.tumblr.com/0f32497f83d71f4ecec72b3fcd4ff1a5/0ffb473bc1799547-c9/s400x600/53d9eae36220e6cecbc4bef36cb2c1b1e4125c4c.gifv">
 <img src="https://64.media.tumblr.com/3d78ba00a62507828b5aa14d6f6d83a7/e9d9c73fe644c12d-25/s1280x1920/cbb7b23a5fcfa98c8ff9ccc08fd93beae7e29ee2.pnj">
 </p>
