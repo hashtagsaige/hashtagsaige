@@ -3,15 +3,13 @@
 </p>
 <!-- Decorative Bar -->
 <p align="center">
-  <img src="https://64.media.tumblr.com/a05954ccd9bf30b44a4581075c68ebdb/d64bd63aae9984b2-4a/s1280x1920/b64300b616c7ecdfee05cfb4bd0d240e0ecc2ad0.pnj">
+  <img src="https://64.media.tumblr.com/479b980431133204e17b89fea36f9fe7/c3b218973bde2fc8-20/s400x600/67adc5f4b514c80d99da5b3701199400d9fbfdde.gifv">
 </p>
-
 <br>
-
 <!-- Welcome Text -->
 <p align="center">
-  ✨ <b>C+h freely, int/ bmf! w2i, (〃＾▽＾〃)ﾉ<b><br>
-  numero uno twin mentioned <a href="https://github.com/fanielle">fanielle</a>
+  blehﾉ<b><br>
+ idk what to put here</a>
 </p>
 
 <br>
