@@ -56,7 +56,7 @@ hello!! lolz wip hehueue
 
 <img src="https://64.media.tumblr.com/e130f29f3b498bb0ff872aae75f1c98d/1f6f6e6f1accc230-cd/s1280x1920/bc8d7a91eaa7b3fa965fec5c891e9b6043e85012.pnj"   width="350">
 
-<img src="https://64.media.tumblr.com/16c819c515bec00d94233394eaf919e3/5b21924c87677caa-61/s2048x3072/2a91a888ca1bcb71b65bab893acd5de74eac5dc8.pnj"   width="350">
+<img src="https://64.media.tumblr.com/1556b5edd09b1446f7d7cd0d097f80bf/f0a0aa3ecc6d408a-8d/s1280x1920/c4e6521b8628d02028186f5a9cecaf9bcb4c2673.pnj"   width="350">
 
 <img src="https://64.media.tumblr.com/2860b33b9c562cbc49eb17f5b4a57521/89df3dcca3748af4-bc/s400x600/d47ea4a6b5b18fd012c502107017b8d100b22167.pnj"   width="350">
 
