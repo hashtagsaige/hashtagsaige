@@ -13,23 +13,28 @@
 
 <div align="center">
   
- $${\color{#4bc0b1}୭˚. ᵎᵎ}$$
+ $${\color{#7CC740}Shuriken}$$
+
+ <img src="https://64.media.tumblr.com/5de61d31e9b49c003ec36bcb4c4f64db/afca0d50e2ccb2c8-b5/s75x75_c1/bf76449797a81521bfc2f570ebca6cd7505b583b.gifv">
+
+$${\color{#FF5959}Sword}$$
 
 </div>
-
 <br>
 <div align="center">
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Caveat&size=22&color=9BE9A8&center=true&vCenter=true&width=600&lines=But+I+won't+deny+that;In+the+midst+of+the+crowds;In+the+shapes+in+the+clouds;I+don't+see+nobody+but+you+💕&pause=1000&repeat=true" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Gloria+Hallelujah&size=22&color=FFFFF8&center=true&vCenter=true&width=600&lines=But+I+won't+deny+that;In+the+midst+of+the+crowds;In+the+shapes+in+the+clouds;I+don't+see+nobody+but+you+💕&pause=10&repeat=true" alt="Typing SVG" />
 </a>
   
 </div>
 
 <p align="center">
-  blehﾉ<b><br>
- idk what to put here</a>
+ $${\color{#e5ff84}𐔌   .  ⋮ Saige\space /\space Draco  .ᐟ\space  ֹ   ₊ ꒱}$$
+
+<br>
+
+$${\color{#e5ff84}◝(ᵔᗜᵔ)◜}$$
 </p>
-</div>
 
 <br>
 <br>
@@ -48,14 +53,36 @@ hello!! lolz wip hehueue
 </p>
 
 <br><br>
+
+<img src="https://64.media.tumblr.com/7a120f48dd1b43d765286cdc8e7c6d92/acc23d3e2cd7f607-a3/s1280x1920/17642f9479b9a22d1d4e0a7fb5dab3f2d4272fce.pnj"   width="350">
+
+<img src="https://64.media.tumblr.com/e130f29f3b498bb0ff872aae75f1c98d/1f6f6e6f1accc230-cd/s1280x1920/bc8d7a91eaa7b3fa965fec5c891e9b6043e85012.pnj"   width="350">
+
+<img src="https://64.media.tumblr.com/16c819c515bec00d94233394eaf919e3/5b21924c87677caa-61/s2048x3072/2a91a888ca1bcb71b65bab893acd5de74eac5dc8.pnj"   width="350">
+
+<img src="https://64.media.tumblr.com/2860b33b9c562cbc49eb17f5b4a57521/89df3dcca3748af4-bc/s400x600/d47ea4a6b5b18fd012c502107017b8d100b22167.pnj"   width="350">
+
+<img src="https://64.media.tumblr.com/2098785342b361e6b749ae5f3db8c180/46d604dd162ee4c3-52/s250x400/96d57020337173a22b1299f53fe0c28251f3c691.pnj"   width="350">
+
+<img src="https://64.media.tumblr.com/e793a643daf1652ce5f10188f682195c/d9bdf6391bca43c6-9a/s1280x1920/d16b4fd209ab3238e4bcf262d0d8b9707934fa7e.pnj"   width="350">
+
+<br><br>
 <p align="center"><img src="https://file.garden/avWSAgqdE0-v4kIR/Untitled77_20261112133227.webp"  width="250"><img src="https://file.garden/avWSAgqdE0-v4kIR/Untitled77_20261112133319.webp" width="250"></p>
 
 <!-- Stamps / Side Images -->
-<p align="right">
-  <img src="STAMP1_URL" width="110" alt="">
-  <img src="STAMP2_URL" width="110" alt="">
+<p align="center">
+  <img src="https://64.media.tumblr.com/b53e4543f76019b2dc71b39def10b9c5/765481d86c82a26b-c8/s250x400/b09fa88fb1e9d8f3104a809774399ec0b401580e.gifv" width="100">
+  
+  <img src="https://64.media.tumblr.com/2d439fcbcfd364e360d2a3fc36f3e25b/b43fa5bd17823ff3-34/s100x200/111b807cece2369746746b77f744c00e76dae72d.gifv" width="100">
+  
+  <img src="https://64.media.tumblr.com/898befc380ab1db078b7c289110bfea6/449a1380ac8bae13-77/s100x200/86e856d7b8784a3ba6b5944ae47ec12d7c4d14b2.gifv" width="100">
   <br>
-  <img src="STAMP3_URL" width="110" alt="">
+  <img src="https://64.media.tumblr.com/9dc41a967278c38682c59c8a12af2d5a/1bbc2c77ccb32a74-63/s250x400/06bcc4f3d055b83f77204e1b69fcb60c0d084235.gifv"  width="100">
+
+  <img src="https://64.media.tumblr.com/2d439fcbcfd364e360d2a3fc36f3e25b/b43fa5bd17823ff3-34/s100x200/111b807cece2369746746b77f744c00e76dae72d.gifv" width="100">
+
+  <img src="https://64.media.tumblr.com/03a8966c5322cf63e80dbca73c9c9daf/9a4a56cfe81adb69-a7/s100x200/aadc3bae2e102e348999a3ebdba66d94fc488953.gifv"  width="100">
+
 <div align="center">
 <img src="https://64.media.tumblr.com/3d78ba00a62507828b5aa14d6f6d83a7/e9d9c73fe644c12d-25/s1280x1920/cbb7b23a5fcfa98c8ff9ccc08fd93beae7e29ee2.pnj">
 </p>
