@@ -29,11 +29,9 @@ $${\color{#FF5959}Sword}$$
 </div>
 
 <p align="center">
- $${\color{#e5ff84}𐔌   .  ⋮ Saige\space /\space Draco  .ᐟ\space  ֹ   ₊ ꒱}$$
-
-<br>
-
-$${\color{#e5ff84}◝(ᵔᗜᵔ)◜}$$
+$${\color{#e5ff84}✧˚ ·.   \space   Saige\space /\space Draco  .ᐟ\space  ֹ   ₊ ꒱}$$
+$${\color{#a8ee67}ㅤ♡ྀི ₊\space pls\space c+h\space freely!\space /\space w2interact!\space ( ˶ˆᗜˆ˵ )}$$
+$${\color{#96d083}gfadshasdfhadfsh}$$
 </p>
 
 <br>
@@ -44,7 +42,7 @@ $${\color{#e5ff84}◝(ᵔᗜᵔ)◜}$$
 
 <p align="left">
 <details>
-<summary><strong>before you interact !</strong></summary>
+<summary><strong>$${\color{#880f07}⟡\space ୧ ‧₊˚ ⭐ ⋅ ☆\space♡}$$</strong></summary>
 <br>
 <div style="padding: 8; border-left: 2 solid #39d353; margin-left: 12;">
 hello!! lolz wip hehueue
