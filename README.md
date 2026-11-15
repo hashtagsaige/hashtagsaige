@@ -13,7 +13,7 @@
 
 <div align="center">
   
-colored text type shit aaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+ $${\color{#4bc0b1}୭˚. ᵎᵎ}$$
 
 </div>
 
@@ -41,7 +41,7 @@ colored text type shit aaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
 <details>
 <summary><strong>before you interact !</strong></summary>
 <br>
-<div style="padding: 8px; border-left: 2px solid #39d353; margin-left: 12px;">
+<div style="padding: 8; border-left: 2 solid #39d353; margin-left: 12;">
 hello!! lolz wip hehueue
 </div>
 </details>
