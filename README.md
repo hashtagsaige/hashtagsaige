@@ -45,8 +45,15 @@ $${\color{#96d083}gfadshasdfhadfsh}$$
 <summary><strong>$${\color{#880f07}⟡\space ୧ ‧₊˚ ⭐ ⋅ ☆\space♡}$$</strong></summary>
 <br>
 <div style="padding: 8; border-left: 2 solid #39d353; margin-left: 12;">
-<a href="https://rentry.co/thieveden" target="_blank">
-    <img src="https://file.garden/avWSAgqdE0-v4kIR/1a098988-b696-404c-9bbe-6bfaa9cdb64c.webp" alt="Rentry" height="80">
+  $${\color{#741D07}✦}$$
+  <a href="https://drac0.atabook.org">atab</a>
+  $${\color{#F26419}✦}$$
+  <a href="https://rentry.co/thieveden">rentry</a>
+  $${\color{white}✦}$$
+  <a href="https://saigester.straw.page">strawp</a>
+  $${\color{#F26419}✦}$$
+  <a href="https://ferrehuh.straw.page">musicwall</a>
+  $${\color{#741D07}✦}$$
   </a>
 </div>
 </details>
