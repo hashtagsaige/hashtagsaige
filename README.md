@@ -3,7 +3,7 @@
 </p>
 <div align="center">
 
-![](https://komarev.com/ghpvc/?username=literalferretlover&label=sparrows+and+shadows&color=A7D49B&style=flat&abbreviated=true)
+![](https://komarev.com/ghpvc/?username=literalferretlover&label=‹𝟹&color=adef69&style=flat&abbreviated=true)
 <br>
 <br>
 
@@ -56,7 +56,7 @@ hello!! lolz wip hehueue
 
 <img src="https://64.media.tumblr.com/e130f29f3b498bb0ff872aae75f1c98d/1f6f6e6f1accc230-cd/s1280x1920/bc8d7a91eaa7b3fa965fec5c891e9b6043e85012.pnj"   width="350">
 
-<img src="https://64.media.tumblr.com/1556b5edd09b1446f7d7cd0d097f80bf/f0a0aa3ecc6d408a-8d/s1280x1920/c4e6521b8628d02028186f5a9cecaf9bcb4c2673.pnj"   width="350">
+<img src="https://64.media.tumblr.com/667586ef47b623bfd37296d6ebb9f8de/acc23d3e2cd7f607-47/s1280x1920/de525584ab780851aedf7233723b85a16c675d2a.pnj"   width="350">
 
 <img src="https://64.media.tumblr.com/2860b33b9c562cbc49eb17f5b4a57521/89df3dcca3748af4-bc/s400x600/d47ea4a6b5b18fd012c502107017b8d100b22167.pnj"   width="350">
 
@@ -65,7 +65,7 @@ hello!! lolz wip hehueue
 <img src="https://64.media.tumblr.com/e793a643daf1652ce5f10188f682195c/d9bdf6391bca43c6-9a/s1280x1920/d16b4fd209ab3238e4bcf262d0d8b9707934fa7e.pnj"   width="350">
 
 <br><br>
-<p align="center"><img src="https://file.garden/avWSAgqdE0-v4kIR/Untitled77_20261112133227.webp"  width="250"><img src="https://file.garden/avWSAgqdE0-v4kIR/Untitled77_20261112133319.webp" width="250"></p>
+<p align="center"><img src="https://file.garden/avWSAgqdE0-v4kIR/Untitled77_20261112133227.webp"  width="200"><img src="https://file.garden/avWSAgqdE0-v4kIR/Untitled77_20261112133319.webp" width="200"></p>
 
 <!-- Stamps / Side Images -->
 <p align="center">
