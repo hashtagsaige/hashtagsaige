@@ -31,7 +31,7 @@ $${\color{#FF5959}Sword}$$
 <p align="center">
 $${\color{#e5ff84}✧˚ ·.   \space   Saige\space /\space Draco  .ᐟ\space  ֹ   ₊ ꒱}$$
 $${\color{#a8ee67}ㅤ♡ྀི ₊\space pls\space c+h\space freely!\space /\space w2interact!\space ( ˶ˆᗜˆ˵ )}$$
-$${\color{#96d083}˖ׂׂૢᡣ𐭩\space ⊹\space omnivert\space/\space a\space ferret\space enthusiast!}$$
+$${\color{#96d083}˖ׂׂૢᡣ𐭩\space ⊹\space omnivert\space/\space a\space ferret\space enthusiast!\space /\space loves\space stars\space 👀 ⋆·˚ ༘ *}$$
 </p>
 
 <br>
