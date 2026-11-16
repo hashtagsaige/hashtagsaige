@@ -46,14 +46,16 @@ $${\color{#96d083}gfadshasdfhadfsh}$$
 <br>
 <div style="padding: 8; border-left: 2 solid #39d353; margin-left: 12;">
   <img src="https://64.media.tumblr.com/4067ea27ea3b2d0327b89453375d030f/88b685697c130c9e-f0/s75x75_c1/7bda3491f46d32d2e27c93784336d4c66daddb18.gifv">
-  <a href="https://drac0.atabook.org">atab</a>
+  <a href="https://drac0.atabook.org">ata</a>
   <img src="https://64.media.tumblr.com/a8d8f71429325eba10b4c909b5f11dea/88b685697c130c9e-e7/s75x75_c1/99b66c9322574383da5f9031d33f2c780b1438fe.gifv">
   <a href="https://rentry.co/thieveden">rentry</a>
   <img src="https://64.media.tumblr.com/5b4f5e1f54849de9caf1d03c3ca01991/dac96afc2c690a73-1c/s75x75_c1/7683bf1e1765158d8c0de2004a0363a1a382f763.gifv">
-  <a href="https://saigester.straw.page">strawp</a>
+  <a href="https://https://savaige.straw.page">strawp</a>
   <img src="https://64.media.tumblr.com/7112d7af8c4fe3122a30178ed92bd0b7/88b685697c130c9e-b7/s75x75_c1/94e14f975f2809d95d7f9237128c67454b9350ba.gifv">
   <a href="https://ferrehuh.straw.page">musicwall</a>
   <img src="https://64.media.tumblr.com/a06d036d026497bdc3c50cd180540ab1/c24f8aa83ab6df7a-3a/s75x75_c1/599354cb94d09c851553ef8f2dd7ed8578feaadd.gifv"  width="30">
+  <a href="https://pronouns.cc/@ferretholicc">prnscc</a>
+  <img src="https://64.media.tumblr.com/c11ba0d53b0d8137813493d9ffe667df/332662bcadb2f47e-69/s75x75_c1/67cfcfa0e9d97f1eedfd31eef35ed1557f855d5d.gifv"  width="30">
   </a>
 </div>
 </details>
