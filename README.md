@@ -50,7 +50,7 @@ $${\color{#96d083}˖ׂׂૢᡣ𐭩\space ⊹\space omnivert\space/\space a\space
   <img src="https://64.media.tumblr.com/a8d8f71429325eba10b4c909b5f11dea/88b685697c130c9e-e7/s75x75_c1/99b66c9322574383da5f9031d33f2c780b1438fe.gifv">
   <a href="https://rentry.co/thieveden">rentry</a>
   <img src="https://64.media.tumblr.com/5b4f5e1f54849de9caf1d03c3ca01991/dac96afc2c690a73-1c/s75x75_c1/7683bf1e1765158d8c0de2004a0363a1a382f763.gifv">
-  <a href="https://https://savaige.straw.page">strawp</a>
+  <a href="https://savaige.straw.page">strawp</a>
   <img src="https://64.media.tumblr.com/7112d7af8c4fe3122a30178ed92bd0b7/88b685697c130c9e-b7/s75x75_c1/94e14f975f2809d95d7f9237128c67454b9350ba.gifv">
   <a href="https://ferrehuh.straw.page">musicwall</a>
   <img src="https://64.media.tumblr.com/a06d036d026497bdc3c50cd180540ab1/c24f8aa83ab6df7a-3a/s75x75_c1/599354cb94d09c851553ef8f2dd7ed8578feaadd.gifv"  width="30">
