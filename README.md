@@ -10,16 +10,6 @@
 <p align="center">
   <img src="https://file.garden/avWSAgqdE0-v4kIR/Untitled76_20261112132032.webp" width="600">
 </p>
-
-<div align="center">
-  
- $${\color{#7CC740}Shuriken}$$
-
- <img src="https://64.media.tumblr.com/5de61d31e9b49c003ec36bcb4c4f64db/afca0d50e2ccb2c8-b5/s75x75_c1/bf76449797a81521bfc2f570ebca6cd7505b583b.gifv">
-
-$${\color{#FF5959}Sword}$$
-
-</div>
 <br>
 <div align="center">
 <a href="https://git.io/typing-svg">
@@ -42,7 +32,7 @@ $${\color{#96d083}˖ׂׂૢᡣ𐭩\space ⊹\space omnivert\space/\space a\space
 
 <p align="left">
 <details>
-<summary><strong>$${\color{#880f07}⟡\space ୧ ‧₊˚ ⭐ ⋅ ☆\space♡}$$</strong></summary>
+<summary><strong>$${\color{#880f07}⟡\space ୧ ‧₊˚ ꜱᴏᴄɪᴀʟꜱ ⋅ ☆\space♡}$$</strong></summary>
 <br>
 <div style="padding: 8; border-left: 2 solid #39d353; margin-left: 12;">
   <img src="https://64.media.tumblr.com/4067ea27ea3b2d0327b89453375d030f/88b685697c130c9e-f0/s75x75_c1/7bda3491f46d32d2e27c93784336d4c66daddb18.gifv">
