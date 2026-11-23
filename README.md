@@ -21,7 +21,7 @@
 <p align="center">
 $${\color{#e5ff84}✧˚ ·.   \space   Saige\space /\space Draco  .ᐟ\space  ֹ   ₊ ꒱}$$
 $${\color{#a8ee67}ㅤ♡ྀི ₊\space pls\space c+h\space freely!\space /\space w2interact!\space ( ˶ˆᗜˆ˵ )}$$
-$${\color{#96d083}˖ׂׂૢᡣ𐭩\space ⊹\space omnivert\space/\space a\space ferret\space enthusiast!\space /\space loves\space stars\space 👀 ⋆·˚ ༘ *}$$
+$${\color{#96d083}𝗯𝗿𝗼𝗯𝗿𝗼\space 𝘄𝗶𝗽\space 𝗶\space 𝘀𝗲𝗲\space 𝗮\space 𝘃𝗶𝘀𝗶𝗼𝗻}$$
 </p>
 
 <br>
@@ -32,7 +32,7 @@ $${\color{#96d083}˖ׂׂૢᡣ𐭩\space ⊹\space omnivert\space/\space a\space
 
 <p align="left">
 <details>
-<summary><strong>$${\color{#880f07}⟡\space ୧ ‧₊˚ ꜱᴏᴄɪᴀʟꜱ ⋅ ☆\space♡}$$</strong></summary>
+<summary><strong>$${\color{#880f07}⟡\space𝘀𝗼𝗰𝗶𝗮𝗹𝘀\space♡}$$</strong></summary>
 <br>
 <div style="padding: 8; border-left: 2 solid #39d353; margin-left: 12;">
   <img src="https://64.media.tumblr.com/4067ea27ea3b2d0327b89453375d030f/88b685697c130c9e-f0/s75x75_c1/7bda3491f46d32d2e27c93784336d4c66daddb18.gifv">
