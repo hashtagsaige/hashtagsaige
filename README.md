@@ -13,18 +13,32 @@
 </a>
 </div>
 
-<table>
-<tr>
-<td width="60%">
-<img src="https://file.garden/avWSAgqdE0-v4kIR/Untitled80_20261126184938.webp width="600">
-</td>
-<td valign="middle" width="40%">
-  <p style="color: #9be9a8; font-family: monospace; font-size: 18; line-height: 2;">
-    ✦ test<br>
-    + test &nbsp;&nbsp; ‡ &nbsp;&nbsp; test
-  </p>
+<table style="width: 100; border: none; border-spacing: 0;">
+  <tr style="border: none;">
+    <td style="border: none; vertical-align: middle; width: 65;">
+      <img src="https://file.garden/avWSAgqdE0-v4kIR/Untitled80_20261126185133.webp" 
+           style="width: 100; height: auto;">
+    </td>
+    
+  <td style="border: none; vertical-align: middle; width: 35; padding-left: 20;">
+      <p style="color: #9be9a8; font-family: 'Courier New', monospace; font-size: 17; line-height: 2;">
 
-</td>
+  $${\color{#386641}➤}$$ ๑ 𝐬𝐚𝐢𝐠𝐞 / 𝐝𝐫𝐚𝐜𝐨 / 𝐤𝐞𝐚𝐭𝐡
+        
+  $${\color{#6a984d}➤}$$ 𝐩𝐥𝐬 𝐜 + 𝐡 𝐟𝐫𝐞𝐞𝐥𝐲 ,, 𝐚𝐜𝐜𝐞𝐩𝐭𝐬 𝐛𝐨𝐨𝐩𝐬! &nbsp;&nbsp; ୨ৎ
+          
+  $${\color{#a7c958}➤}$$ ₍^. .^₎Ⳋ &nbsp;&nbsp; 𝐝𝐧𝐜𝐨𝐯𝐞𝐫 𝐮𝐧𝐥𝐞𝐬𝐬 𝐨𝐨𝐦𝐟 &nbsp;&nbsp; ⟡ 
+    
+  $${\color{#ffecbc}➤}$$ ༄.° &nbsp;&nbsp; 𝐰𝐡𝐢𝐬𝐩𝐞𝐫 𝟐 𝐢𝐧𝐭𝐞𝐫𝐚𝐜𝐭 &nbsp;&nbsp; >⩊<
+  
+  $${\color{#bb4748}➤}$$
+   
+  $${\color{#a5161a}➤}$$
+  
+  $${\color{#860a0c}➤}$$
+  
+  </p>
+  </td>
 </tr>
 </table>
 
@@ -39,17 +53,17 @@
 <summary><strong>$${\color{#880f07}𝐬𝐨𝐜𝐢𝐚𝐥𝐬?\space♡}$$</strong></summary>
 <br>
 <div style="padding: 8; border-left: 2 solid #39d353; margin-left: 12;">
-  $${\color{#880f07}♥︎}$$
-  <a href="https://drac0.atabook.org">ata</a>
-  $${\color{#880f07}♥︎}$$
+  $${\color{#d62d30}♥︎}$$
+  <a href="https://drac0.atabook.org">atabook</a>
+  $${\color{#f94d4d}♥︎}$$
   <a href="https://rentry.co/thieveden">rentry</a>
-  $${\color{#880f07}♥︎}$$
-  <a href="https://hashtagsaige.straw.page">strawp</a>
-  $${\color{#880f07}♥︎}$$
-  <a href="https://ferrehuh.straw.page">musicwall</a>
-  $${\color{#880f07}♥︎}$$
-  <a href="https://pronouns.cc/@ferretholicc">prnscc</a>
-  $${\color{#880f07}♥︎}$$
+  $${\color{#ddf384}♥︎}$$
+  <a href="https://hashtagsaige.straw.page">strawpage</a>
+  $${\color{#bedb41}♥︎}$$
+  <a href="https://ferrehuh.straw.page">music wall</a>
+  $${\color{#7abe4d}♥︎}$$
+  <a href="https://pronouns.cc/@ferretholicc">pronouns.cc</a>
+  $${\color{#46a660}♥︎}$$
   </a>
 </div>
 </details>
