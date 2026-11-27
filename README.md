@@ -23,19 +23,19 @@
   <td style="border: none; vertical-align: middle; width: 35; padding-left: 20;">
       <p style="color: #9be9a8; font-family: 'Courier New', monospace; font-size: 17; line-height: 2;">
 
-  $${\color{#386641}➤}$$ ๑ 𝐬𝐚𝐢𝐠𝐞 / 𝐝𝐫𝐚𝐜𝐨 / 𝐤𝐞𝐚𝐭𝐡
+  $${\color{#386641}"𝐊е𝐭𝐜𝐡𝐮𝐩\space 𝐭𝐨\space 𝐦𝐲\space 𝐅𝐫𝐞𝐧𝐜𝐡\space 𝐟𝐫𝐲,\space 𝐭𝐡𝐞\space 𝐬𝐮𝐠𝐚𝐫\space 𝐭𝐨\space 𝐦𝐲\space 𝐩𝐨𝐩\space ♡"}$$ 
         
-  $${\color{#6a984d}➤}$$ 𝐩𝐥𝐬 𝐜 + 𝐡 𝐟𝐫𝐞𝐞𝐥𝐲 ,, 𝐚𝐜𝐜𝐞𝐩𝐭𝐬 𝐛𝐨𝐨𝐩𝐬! &nbsp;&nbsp; ୨ৎ
+  $${\color{#6a984d}➤}$$ ๑ 𝐬𝐚𝐢𝐠𝐞 &nbsp;&nbsp; / &nbsp;&nbsp; 𝐝𝐫𝐚𝐜𝐨 &nbsp;&nbsp; / &nbsp;&nbsp; 𝐤𝐞𝐚𝐭𝐡
           
-  $${\color{#a7c958}➤}$$ ₍^. .^₎Ⳋ &nbsp;&nbsp; 𝐝𝐧𝐜𝐨𝐯𝐞𝐫 𝐮𝐧𝐥𝐞𝐬𝐬 𝐨𝐨𝐦𝐟 &nbsp;&nbsp; ⟡ 
+  $${\color{#a7c958}➤}$$ 𝐩𝐥𝐬 𝐜 + 𝐡 𝐟𝐫𝐞𝐞𝐥𝐲 ,, 𝐚𝐜𝐜𝐞𝐩𝐭𝐬 𝐛𝐨𝐨𝐩𝐬! &nbsp;&nbsp; ୨ৎ
     
-  $${\color{#ffecbc}➤}$$ ༄.° &nbsp;&nbsp; 𝐰𝐡𝐢𝐬𝐩𝐞𝐫 𝟐 𝐢𝐧𝐭𝐞𝐫𝐚𝐜𝐭 &nbsp;&nbsp; >⩊<
+  $${\color{#ffecbc}➤}$$ ₍^. .^₎Ⳋ &nbsp;&nbsp; 𝐝𝐧𝐜𝐨𝐯𝐞𝐫 𝐮𝐧𝐥𝐞𝐬𝐬 𝐨𝐨𝐦𝐟 &nbsp;&nbsp; ⟡ 
   
-  $${\color{#bb4748}➤}$$ ୨୧ &nbsp;&nbsp; 
+  $${\color{#bb4748}➤}$$ ༄.° &nbsp;&nbsp; 𝐰𝐡𝐢𝐬𝐩𝐞𝐫 𝟐 𝐢𝐧𝐭𝐞𝐫𝐚𝐜𝐭 &nbsp;&nbsp; >⩊<
    
-  $${\color{#a5161a}➤}$$
+  $${\color{#a5161a}➤}$$ 𝐛𝐚𝐬𝐢𝐜 𝐝𝐧𝐢, 𝐝𝐨𝐧𝐭 𝐛𝐞 𝐰𝐞𝐢𝐫𝐝-𝐰𝐞𝐢𝐫𝐝 ! &nbsp;&nbsp; 𑄝
   
-  $${\color{#860a0c}➤}$$
+  $${\color{#860a0c}"𝐌𝐲\space 𝐝𝐞𝐥𝐞𝐜𝐭𝐚𝐛𝐥𝐞\space 𝐨𝐛𝐬𝐞𝐬𝐬𝐢𝐨𝐧,\space 𝐭𝐡𝐞\space 𝐬𝐨𝐝𝐚\space 𝐢𝐧\space 𝐦𝐲\space 𝐜𝐮𝐩\space ♡"}$$
   
   </p>
   </td>
