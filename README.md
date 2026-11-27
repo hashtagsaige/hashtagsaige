@@ -6,23 +6,27 @@
 ![](https://komarev.com/ghpvc/?username=literalferretlover&label=‹𝟹&color=adef69&style=flat&abbreviated=true)
 <br>
 <br>
-
-<p align="center">
-  <img src="https://file.garden/avWSAgqdE0-v4kIR/Untitled76_20261112132032.webp" width="600">
-</p>
 <br>
 <div align="center">
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com?font=Gloria+Hallelujah&size=22&color=FFFFF8&center=true&vCenter=true&width=600&lines=But+I+won't+deny+that;In+the+midst+of+the+crowds;In+the+shapes+in+the+clouds;I+don't+see+nobody+but+you+💕&pause=10&repeat=true" alt="Typing SVG" />
 </a>
-  
 </div>
 
-<p align="center">
-$${\color{#e5ff84}✧˚ ·.   \space   Saige\space /\space Draco  .ᐟ\space  ֹ   ₊ ꒱}$$
-$${\color{#a8ee67}ㅤ♡ྀི ₊\space pls\space c+h\space freely!\space /\space w2interact!\space ( ˶ˆᗜˆ˵ )}$$
-$${\color{#96d083}𝗯𝗿𝗼𝗯𝗿𝗼\space 𝘄𝗶𝗽\space 𝗶\space 𝘀𝗲𝗲\space 𝗮\space 𝘃𝗶𝘀𝗶𝗼𝗻}$$
-</p>
+<table>
+<tr>
+<td width="60%">
+<img src="https://file.garden/avWSAgqdE0-v4kIR/Untitled80_20261126184938.webp width="600">
+</td>
+<td valign="middle" width="40%">
+  <p style="color: #9be9a8; font-family: monospace; font-size: 18; line-height: 2;">
+    ✦ test<br>
+    + test &nbsp;&nbsp; ‡ &nbsp;&nbsp; test
+  </p>
+
+</td>
+</tr>
+</table>
 
 <br>
 <br>
