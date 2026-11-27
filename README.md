@@ -31,7 +31,7 @@
     
   $${\color{#ffecbc}➤}$$ ༄.° &nbsp;&nbsp; 𝐰𝐡𝐢𝐬𝐩𝐞𝐫 𝟐 𝐢𝐧𝐭𝐞𝐫𝐚𝐜𝐭 &nbsp;&nbsp; >⩊<
   
-  $${\color{#bb4748}➤}$$
+  $${\color{#bb4748}➤}$$ ୨୧ &nbsp;&nbsp; 
    
   $${\color{#a5161a}➤}$$
   
